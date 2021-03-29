@@ -1,3 +1,3 @@
 # Grade-Calculator
 
-Program to calculate grades
+Sample Python program to calculate grades 
